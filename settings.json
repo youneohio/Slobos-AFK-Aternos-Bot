@@ -9,10 +9,10 @@
     "ip": "LifeLy.aternos.me",
     "port": 44470,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
