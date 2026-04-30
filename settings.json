@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifely.aternos.me",
+    "ip": "LifeLy.aternos.me",
     "port": 44470,
     "version": "1.21.11",
     "try-creative": false
