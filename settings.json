@@ -59,8 +59,8 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
-    "beds": false,
+    "combat": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -73,15 +73,15 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.gg/EUVAwTeb",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
-    "respond": false
+    "respond": true
   }
 }
